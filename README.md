@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Beth!
+# 👋 Hi, I'm Bethlehem!
 
 I'm a Computer Science student dedicated to becoming a skilled **full-stack web developer**.
 
