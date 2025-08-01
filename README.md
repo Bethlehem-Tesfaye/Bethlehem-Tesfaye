@@ -12,10 +12,11 @@ I’m passionate about building clean, responsive, and scalable web applications
 🛠️ Skills & Tools:
 - JavaScript (ES6+)
 - React, Redux Toolkit
-- Node.js, Express.js
+- Node.js, Express.js, php
 - PostgreSQL, MySQL, MongoDB
 - HTML, CSS, Tailwind CSS
-- Git, GitHub, Jest
+- Git, GitHub, Jest- 
+- C++, Java, Python
 
 💡 I value consistency, clarity, and continuous growth — and I’m always eager to learn something new and push my limits as a developer.
 🤝 Feel free to reach out if you’d like to collaborate or work on something together.
