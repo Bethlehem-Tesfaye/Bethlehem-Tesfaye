@@ -1,13 +1,6 @@
-# 👋 Hi, I'm Bethlehem!
+# Hi, I'm Bethlehem Tesfaye 👋
 
-I'm a Computer Science student dedicated to becoming a skilled **full-stack web developer**.
-
-I’m passionate about building clean, responsive, and scalable web applications using modern technologies. Every day, I strive to deepen my understanding of frontend and backend systems, and to write code that’s not just functional — but maintainable and elegant.
-a# Hi, I'm Bethlehem Tesfaye 👋
-
-💻 Full-Stack & Backend Developer focused on building scalable web applications and real-time systems.
-
-I specialize in designing clean backend architectures, building efficient APIs, and developing modern frontend interfaces with React and TypeScript. I enjoy solving complex problems and turning ideas into reliable, production-ready software.
+💻 Full-Stack & Backend Developer building scalable web applications and real-time systems.
 
 🔗 Portfolio: https://bethlehem-tesfaye-portfolio.onrender.com/
 
@@ -15,116 +8,91 @@ I specialize in designing clean backend architectures, building efficient APIs, 
 
 ## 🚀 About Me
 
-- 🎓 BSc Computer Science student at Addis Ababa University (CGPA: 3.73, Expected 2026)
-- ⚙️ Strong focus on backend systems, real-time applications, and scalable architecture
-- 📚 Currently deepening expertise in distributed systems and backend performance
+🎓 BSc Computer Science — Addis Ababa University (Expected 2026)  
+⚙️ Focused on backend architecture, real-time systems, and scalable APIs  
+
+I enjoy solving complex problems and building clean, maintainable systems that scale.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Backend
-- Node.js
-- Express.js
-- TypeScript
-- PHP
-- .NET
-- REST API Design
-- Socket.IO
-- JWT Authentication
-- Prisma ORM
-- Zod Validation
-
-### Frontend
-- React
-- TypeScript
-- JavaScript (ES6+)
-- Next.js
-- Tailwind CSS
-- Redux
-- TanStack Query
-- shadcn/ui
-
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-- SQLite
-- Redis
-
-### Tools
-- Git
-- GitHub
-- Docker
-- Postman
-- Cloudinary
-- Figma
-- Render / Vercel
+## Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-4E96D6?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+---
+
+## Databases
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C2C?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+# 📌 Featured Projects
 
 ### Blink — Real-Time Messaging Platform
-Scalable real-time messaging platform with group communication.
+Scalable messaging system using WebSockets and Redis.
 
-**Tech:** React, TypeScript, Node.js, Prisma, PostgreSQL, Socket.IO, Redis
-
-Features:
-- Real-time messaging with WebSockets
-- Redis pub/sub for event distribution
-- Media uploads with Cloudinary
-- Secure authentication
+**Stack:** React • TypeScript • Node.js • Prisma • PostgreSQL • Socket.IO • Redis
 
 ---
 
 ### Eventlight — Event Management Platform
-Full-stack event management system with ticket payments and authentication.
+Event platform with authentication, real-time notifications, and ticket payments.
 
-**Tech:** React, TypeScript, Node.js, PostgreSQL, Better Auth, Socket.IO
-
-Features:
-- Secure authentication system
-- Real-time notifications
-- Chapa payment gateway integration
+**Stack:** React • TypeScript • Node.js • PostgreSQL • Better Auth • Socket.IO
 
 ---
 
 ### Expense Tracker AI
-Automated expense tracking with receipt OCR and AI categorization.
+Automated receipt processing with OCR and AI categorization.
 
-**Tech:** React, Node.js, PostgreSQL, PaddleOCR, Veryfi API, Gemini AI
-
-Features:
-- Receipt scanning and text extraction
-- AI-powered expense categorization
-- Analytics dashboards for spending insights
+**Stack:** React • Node.js • PostgreSQL • PaddleOCR • Veryfi API • Gemini AI
 
 ---
 
-## 📫 Contact
+# 📫 Connect With Me
 
-- 🌍 Portfolio: https://bethlehem-tesfaye-portfolio.onrender.com
-- 💼 LinkedIn: https://linkedin.com/in/bethlehem-tesfaye-b267932a8
-- 📧 Email: bethlehem.tesfaye15@gmail.com
-- 💻 GitHub: https://github.com/Bethlehem-Tesfaye
+Portfolio  
+https://bethlehem-tesfaye-portfolio.onrender.com/
+
+LinkedIn  
+https://linkedin.com/in/bethlehem-tesfaye-b267932a8
+
+Email  
+bethlehem.tesfaye15@gmail.com
+
+GitHub  
+https://github.com/Bethlehem-Tesfaye
 
 ---
 
-⭐ I enjoy building systems that are scalable, maintainable, and thoughtfully engineered.
-🔭 I'm currently focused on:
-- Writing clean, maintainable code and learning best practices in frontend and backend architecture
-- Strengthening my understanding of web application design, REST APIs, and state management
-- Learning how to test backend routes and application behavior effectively
-
-🛠️ Skills & Tools:
-- JavaScript (ES6+)
-- React, Redux Toolkit
-- Node.js, Express.js, php
-- PostgreSQL, MySQL, MongoDB
-- HTML, CSS, Tailwind CSS
-- Git, GitHub, Jest- 
-- C++, Java, Python
-
-💡 I value consistency, clarity, and continuous growth — and I’m always eager to learn something new and push my limits as a developer.
-🤝 Feel free to reach out if you’d like to collaborate or work on something together.
+⭐ Always building, learning, and improving.
